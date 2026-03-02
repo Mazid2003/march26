@@ -2,3 +2,6 @@ Machine Learning
 Artificial Intelligence
 Hyderabad
 Bengaluru
+
+mumbai, vijayawada
+vizag
